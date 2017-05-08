@@ -1,0 +1,8 @@
+#10               has_our_domain_as_sender
+#192.168          has_our_domain_as_sender
+10 has_our_domain_as_sender
+172 has_our_domain_as_sender
+95.128.107.128 has_our_domain_as_sender
+127 has_our_domain_as_sender
+145.247 has_our_domain_as_sender
+192.168 has_our_domain_as_sender
